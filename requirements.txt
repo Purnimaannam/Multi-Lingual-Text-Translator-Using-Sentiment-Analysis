@@ -1,0 +1,5 @@
+Django
+deep-translator
+textblob
+nltk
+gunicorn
