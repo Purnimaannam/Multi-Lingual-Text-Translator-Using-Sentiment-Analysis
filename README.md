@@ -49,7 +49,7 @@ This project helped me bridge my knowledge between web development and NLP.
 
 ## 🌐 Deployed Link
 
-🔗 [https://your-deployment-link.onrender.com](https://your-deployment-link.onrender.com)
+🔗 https://multi-lingual-text-translator-using.onrender.com
 
 ---
 
