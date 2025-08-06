@@ -1,4 +1,4 @@
-# Multi-Lingual-Text-Translator-Using-Sentiment-Analysis
+
 # 🌐 Multilingual Text Analyzer
 
 This is a web-based multilingual text analyzer built using Django. It allows users to input text in any language, automatically translates it to English, and then analyzes its sentiment. It’s a simple and interactive tool to understand how translation and NLP work together.
